@@ -8,5 +8,7 @@ public class LinearEquationRunner {
         System.out.print("Enter coordinate 2: ");
         int y1 = scan.nextInt();
         System.out.print(" ");
+        int stringAsInt2 = Integer.parseInt("fifty");
+        System.out.print("The two lines are: " + stringAsInt2);
     }
 }
